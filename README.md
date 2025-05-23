@@ -47,4 +47,3 @@ A machine learning project where the model classifies the hydration status of us
 
 ---
 
-> “Striving to learn, build, and make an impact—one project at a time.”
